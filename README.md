@@ -1,6 +1,6 @@
 # Fetch Data Analyst Take Home
 ## Overview
-In this project, I will demonstrate my ability to reason about data as well as showcase how I communicate findings and insights with stakeholders and business executives.
+In this take home, I will demonstrate my ability to reason about data as well as showcase how I communicate findings and insights with stakeholders and business executives.
 
 ----
 ## Requirements
